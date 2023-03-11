@@ -1,0 +1,19 @@
+{
+  "name": "hyperion_assets",
+  "version": "1.0.0",
+  "description": "img_assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyperion-0/img_Blog.git"
+  },
+  "author": "Hyperion_zero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyperion-0/img_Blog/issues"
+  },
+  "homepage": "https://github.com/Hyperion-0/img_Blog#readme"
+}
